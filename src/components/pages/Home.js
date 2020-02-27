@@ -76,11 +76,11 @@ export const Home = () => (
             <li>
               <FontAwesomeIcon icon={['fab', 'linkedin']} />{' '}
               <a
-                href='https://linkedin.com/glendonray'
+                href='https://www.linkedin.com/in/glendonray/'
                 target='_blank'
                 rel='noopener noreferrer'
               >
-                linkedin.com/glendonray
+                linkedin.com/in/glendonray
               </a>
             </li>
             <li>
