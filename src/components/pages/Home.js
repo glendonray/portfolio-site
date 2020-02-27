@@ -53,8 +53,8 @@ export const Home = () => (
               <a href='https://corelinksurgical.com'>corelinksurgical.com</a>
             </li>
             <li>
-              <a href='https://compasshealthnetwork.com'>
-                compasshealthnetwork.com
+              <a href='https://compasshealthnetwork.org'>
+                compasshealthnetwork.org
               </a>
             </li>
             <li>
