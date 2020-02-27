@@ -1,0 +1,21 @@
+section {
+  padding: 4rem 0;
+  @media screen and (max-width: 768px) {
+    & {
+      padding: 1rem 0;
+    }
+  }
+}
+
+.container {
+  padding: 2rem 0;
+  width: 80%;
+  max-width: 1366px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.card {
+  padding: 1.5rem;
+  border-radius: 1rem;
+}
