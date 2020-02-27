@@ -10,7 +10,7 @@ export const Home = () => (
           <div className='intro-text '>
             <h2>Full Stack Web Developer</h2>
             <p>
-              My name is Glendon Grapperhaus. I am a Full Stack Web developer,
+              My name is Glendon Grapperhaus. I am a Full Stack Web developer
               with skills in UI/UX, graphic design, and illustrating. I live in
               Saint Louis, MO with my wife, cats, and dogs.
             </p>
@@ -50,10 +50,10 @@ export const Home = () => (
               <a href='https://journal.jabian.com'>journal.jabian.com</a>
             </li>
             <li>
-              <a href='https://corelink.com'>corelink.com</a>
+              <a href='https://corelinksurgical.com'>corelinksurgical.com</a>
             </li>
             <li>
-              <a href='https://copmasshealthnetwork.com'>
+              <a href='https://compasshealthnetwork.com'>
                 compasshealthnetwork.com
               </a>
             </li>
@@ -66,7 +66,7 @@ export const Home = () => (
               <a href='https://eliasllc.com'>eliasllc.com</a>
             </li>
             <li>
-              <a href='https://duodogs.com'>duodogs.com</a>
+              <a href='https://duodogs.org'>duodogs.org</a>
             </li>
           </ul>
         </div>
