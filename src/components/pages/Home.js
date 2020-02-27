@@ -44,29 +44,67 @@ export const Home = () => (
           <h2>Sites I've Built</h2>
           <ul>
             <li>
-              <a href='https://jabian.com'>jabian.com</a>
+              <a
+                href='https://jabian.com'
+                rel='noopener noreferrer'
+                target='_blank'
+              >
+                jabian.com
+              </a>
             </li>
             <li>
-              <a href='https://journal.jabian.com'>journal.jabian.com</a>
+              <a
+                href='https://journal.jabian.com'
+                rel='noopener noreferrer'
+                target='_blank'
+              >
+                journal.jabian.com
+              </a>
             </li>
             <li>
-              <a href='https://corelinksurgical.com'>corelinksurgical.com</a>
+              <a
+                href='https://corelinksurgical.com'
+                rel='noopener noreferrer'
+                target='_blank'
+              >
+                corelinksurgical.com
+              </a>
             </li>
             <li>
-              <a href='https://compasshealthnetwork.org'>
+              <a
+                href='https://compasshealthnetwork.org'
+                rel='noopener noreferrer'
+                target='_blank'
+              >
                 compasshealthnetwork.org
               </a>
             </li>
             <li>
-              <a href='https://unitedway.monsanto.com'>
+              <a
+                href='https://unitedway.monsanto.com'
+                rel='noopener noreferrer'
+                target='_blank'
+              >
                 unitedway.monsanto.com
               </a>
             </li>
             <li>
-              <a href='https://eliasllc.com'>eliasllc.com</a>
+              <a
+                href='https://eliasllc.com'
+                rel='noopener noreferrer'
+                target='_blank'
+              >
+                eliasllc.com
+              </a>
             </li>
             <li>
-              <a href='https://duodogs.org'>duodogs.org</a>
+              <a
+                href='https://duodogs.org'
+                rel='noopener noreferrer'
+                target='_blank'
+              >
+                duodogs.org
+              </a>
             </li>
           </ul>
         </div>
