@@ -1,13 +1,15 @@
 import React from 'react';
 import PropTypes from 'prop-types';
-//import { Link } from 'react-router-dom';
+import { Link } from 'react-router-dom';
 import Logo from './Logo.js';
 
 const Navbar = ({ icon, title }) => {
   return (
     <nav className='navbar bg-black'>
       <h1>
-        <Logo fill='#E9E035' /> {title}
+        <Link to='/' className='no-underline flex items-center'>
+          <Logo fill='#E9E035' /> {title}
+        </Link>
       </h1>
       {/* <ul>
         <li>
