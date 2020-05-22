@@ -9,17 +9,16 @@ export const Home = () => (
       <div className='container'>
         <div className='intro-text-container'>
           <div className='intro-text'>
-            <h2>Full Stack Web Developer</h2>
+            <h2>Web Developer</h2>
             <p>
-              My name is Glendon Grapperhaus. I am a Full Stack Web developer
-              with skills in UI/UX, graphic design, and illustrating. I live in
-              Saint Louis, MO with my wife, cats, and dogs.
+              My name is Glendon Grapperhaus. I am a Full Stack Web developer with skills in UI/UX,
+              graphic design, and illustrating. I live in Saint Louis, MO with my wife, cats, and
+              dogs.
             </p>
             <p>
-              In my career I am passionate about building things that are
-              practical, accessible, and beautiful. Outside of my career I am
-              passionate about friends, food, technology, NPR, Marvel, and the
-              environment.
+              In my career I am passionate about building things that are practical, accessible, and
+              beautiful. Outside of my career I am passionate about friends, food, technology, NPR,
+              Marvel, and the environment.
             </p>
           </div>
         </div>

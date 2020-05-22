@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@400;700&family=PT+Mono&display=swap');
+
 @function strip-unit($value) {
   @return $value / ($value * 0 + 1);
 }
