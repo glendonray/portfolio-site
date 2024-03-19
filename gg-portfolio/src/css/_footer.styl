@@ -1,0 +1,47 @@
+#footer
+    background-color: black
+    padding: 4rem 2rem
+    h2
+        text-align: left
+        margin-bottom: 1rem
+    .footer-wrapper
+        max-width: 1024px
+        margin: 0 auto
+        .footer
+            display: grid;
+            column-gap: 4rem
+            row-gap: 1.5rem
+            @media screen and (min-width: 769px) 
+                &
+                    grid-template-columns: 1.5fr 1.5fr;
+            ul 
+                list-style: none
+                columns: 1
+                font-family: fontMono
+                font-size: 1.25rem
+                padding: 0
+                margin: 0
+                @media screen and (min-width: 769px) 
+                    columns: 2
+                li
+                    color: black
+                    border-radius: 4rem
+                    padding: .25rem .75rem
+                    margin-bottom: .75rem
+                
+            
+            .skills 
+                ul 
+                    @media screen and (min-width: 769px) 
+                        columns: 2;
+                    li
+                        background-color: yellow
+
+            .contact
+                ul 
+                    columns: 1
+                    li
+                        background-color: white
+                    
+            
+            
