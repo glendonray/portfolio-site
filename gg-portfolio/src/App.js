@@ -4,7 +4,7 @@ import Portfolio from "./components/Portfolio";
 import Intro from "./components/Intro";
 // import portfolio from "./sample-portfolio";
 import Footer from "./components/Footer";
-import PortfolioManager from "./components/PortfolioManager";
+// import PortfolioManager from "./components/PortfolioManager";
 import base from "./base";
 
 class App extends React.Component {
@@ -57,12 +57,12 @@ class App extends React.Component {
         <Intro />
         <Portfolio portfolioData={this.state.portfolio} />
         <Footer />
-        <PortfolioManager
+        {/* <PortfolioManager
           addProject={this.addProject}
           portfolioData={this.state.portfolio}
           updateProject={this.updateProject}
           deleteProject={this.deleteProject}
-        />
+        /> */}
       </div>
     );
   }
