@@ -168,6 +168,7 @@ header .logo-wrapper .site-title {
   text-align: left;
   color: #0c1116;
   margin-bottom: 1rem;
+  font-size: 2.75rem;
 }
 #intro .intro-wrapper {
   max-width: 1024px;
@@ -177,9 +178,9 @@ header .logo-wrapper .site-title {
   display: grid;
   column-gap: 4rem;
 }
-@media screen and (min-width: 769px) {
+@media screen and (min-width: 981px) {
   #intro .intro-wrapper .intro {
-    grid-template-columns: 1fr 1fr;
+    grid-template-columns: 1fr 0.5fr;
   }
 }
 #intro .intro-wrapper .intro .intro-text {
